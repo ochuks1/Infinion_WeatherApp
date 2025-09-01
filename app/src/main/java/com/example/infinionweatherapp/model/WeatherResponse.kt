@@ -1,4 +1,4 @@
-package com.example.infinionweatherapp.data
+package com.example.infinionweatherapp.model
 
 data class WeatherResponse(
     val main: Main,
